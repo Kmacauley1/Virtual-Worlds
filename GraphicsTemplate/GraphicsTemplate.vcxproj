@@ -169,6 +169,10 @@
     <None Include="scene.sdf" />
     <None Include="shaders\diffuse.fs" />
     <None Include="shaders\diffuse.vs" />
+    <None Include="shaders\multipass.fs" />
+    <None Include="shaders\multipass.vs" />
+    <None Include="shaders\multitexture.fs" />
+    <None Include="shaders\multitexture.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

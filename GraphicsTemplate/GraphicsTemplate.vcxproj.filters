@@ -100,5 +100,17 @@
     <None Include="shaders\diffuse.fs">
       <Filter>shaders</Filter>
     </None>
+    <None Include="shaders\multitexture.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\multitexture.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\multipass.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\multipass.fs">
+      <Filter>shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>

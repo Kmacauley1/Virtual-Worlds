@@ -20,6 +20,8 @@ public:
 		m_Skybox	= NULL;
 	}
 
+	int width = 150;
+	int height = 150;
 	~cScene() 
 	{
 	}
